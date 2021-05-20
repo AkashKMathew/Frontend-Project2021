@@ -1,0 +1,183 @@
+body{
+    margin: 0px;
+    font-family: 'Oxygen', sans-serif;
+}
+.header{
+    background-color: rgb(216, 191, 216);
+    width: 100%;
+    height: 100px;
+}
+.top-image{
+    padding-top: 15px;
+    height: 85px;
+    width: 30%;
+    float: left;
+    text-align: justify;
+    text-align-last: right;
+}
+.main-image{
+    height: 80px;
+    width: 65px;
+}
+@font-face {
+    font-family: fa-brands;
+    src: url(./Fonts/fa-brands-400.ttf) format("truetype");
+}
+
+.head-content{
+    width: 45%;
+    height: 100px;
+    float: left;
+}
+.main-heading{
+    color: rgb(228, 102, 44);
+    font-size: 165%;
+    font-weight: bold;
+    text-shadow:1px 1.5px 1px rgb(243, 34, 39);
+    margin-top: 15px;
+    margin-bottom: 0px;
+    font-family: fa-brands;
+}
+.table-row{
+    font-size: 10px;
+}
+.black-icon{
+    width: 20px;
+    height:20px;
+
+}
+.top-icons{
+    padding-top: 30px;
+    height: 70px;
+    width: 10%;
+    float: left;
+}
+.icon-link{
+    text-decoration: none;
+}
+.table-data:hover{
+    background-color: rgb(0, 128, 128);
+    color: rgb(216, 191, 216);
+}
+.icon1:hover{
+    background-color: rgb(0, 128, 128);
+    color: rgb(216, 191, 216);
+    
+}
+.icon1{
+    color: rgb(0, 128, 128);
+}
+.icon-text{
+    color: rgb(0, 128, 128);
+}
+.content{
+    height: 650px;
+    width: 100%;
+    background-color: rgb(0, 128, 128);
+}
+.content1{
+    padding-top: 50px;
+    padding-bottom: 10px;
+    height: 325px;
+    width: 100%;
+}
+.jumbotron{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 400px;
+}
+.content2{
+    width: 100%;
+    text-align: center;
+}
+.images{
+    width: 90%;
+    height: 200px;
+}
+.image-div{
+    position: relative;
+    height: 200px;
+    width: 30%;
+    padding-top: 15px;
+    display: inline-block;
+}
+.image1{
+    height: 230px;
+    width: 300px;
+}
+.img-footer{
+    height: 42px;
+    width: 95%;
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(0, 128, 128, 0.507);
+}
+.foot{
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}
+.footer{
+    width: 100%;
+    height: 115px;
+    background-color: rgb(1, 82, 82);
+    padding-top: 10px;
+}
+.footer-part{
+    width: 20%;
+    height: 90px;
+    color: white;
+    padding-left: 10%;
+    padding-top: 25px;
+    font-size: 13px;
+    margin: 0px;
+    float: left;
+}
+.footer1{
+    width: 100%;
+    height: 30px;
+    padding-top: 1px;
+    color: white;
+    background-color: rgb(1, 82, 82);
+    text-align: center;
+    font-size: 10px;
+}
+.heading{
+    width: 100%;
+    height: 90px;
+    padding-top: 10px;
+    float: left;
+    color: rgb(228, 102, 44);
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow:1px 1.5px 1px rgb(243, 34, 39);
+    font-family: fa-brands;
+    text-align: center;
+    position: relative;
+    
+}
+.home{
+    position: absolute;
+    width: 95%;
+    padding-top: 23px;
+    top: 0;
+    text-align: justify;  /* For Edge */
+    text-align-last: right;
+}
+
+.home-name{
+    text-decoration: none;
+    color: rgb(228, 102, 44);
+}
+.contents{
+    height: 550px;
+    width: 100%;
+    background-color: rgb(0, 128, 128);
+}
+.content3{
+    height: 250px;
+    width: 100%;
+    text-align: center;
+}
